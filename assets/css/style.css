@@ -651,7 +651,9 @@ img {
 .copywrite-text p {
     color: #fff;
 }
-.footer-menu ul li{}
+.footer-menu ul li{
+    position: relative;
+}
 .footer-menu ul li a{
     color: #fff;
     padding-left: 15px;
